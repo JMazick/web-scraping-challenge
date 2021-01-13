@@ -121,7 +121,5 @@ hemisphere_image_urls = [
 ]
 
 
-# %%
-
 
 
